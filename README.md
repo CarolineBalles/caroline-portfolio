@@ -20,7 +20,7 @@ O site foi construído seguindo os mais altos padrões de arquitetura web:
 
 ## 📂 Como rodar localmente
 1. Clone o repositório:
-   `git clone https://github.com/SEU_USUARIO/caroline-portfolio.git`
+   `git clone https://github.com/CarolineBalles/caroline-portfolio.git`
 2. Instale as dependências:
    `npm install`
 3. Inicie o servidor de desenvolvimento:
